@@ -1,0 +1,33 @@
+Who is the most likely user of this page?
+
+The most likely user is someone who wants to express themselves to their immediate world.
+
+What is that user's critical goal on that page?
+
+Add new posts.
+
+Does the visual hierarchy you sketched lead to that goal?
+
+Somewhat. Post section is central, but relatively small compared to the rest of the screen. The cover photo and information about the user takes up much of the valuable real estate near the top. And if you scroll down to view past posts, there's no obvious way to add a post. There's an opportunity here in my opinion.
+
+Do the relationships between the elements lead you to that goal?
+
+Somewhat. The "Post" button is the only colored button on the screen, so that immediately draws the eye. 
+
+Visually it makes sense that a new post will appear at the top of your past posts.
+
+What font families are most prominent on the page?
+
+Again, it appears to be San Francisco and Mac System fonts all the way--even for the ads. I wonder if this is the same on other operating systems.
+
+How do these font families contribute to or take away from the site's flow?
+
+The font families don't intrude on the user experience. They allow the user to navigate the tabs and post content unobtrusively.
+
+How do the line spacings, sizes and weights contribute to or take away from the site's flow?
+
+I find I generally like the site's flow. Users who post or comment are bolded, and there's a bit of margin between posts. There's not much visual hierarchy in terms of font size, besides the user's name near the top of the screen which serves to remind the user of their location.
+
+What would you improve to achieve a better hierarchy or flow?
+
+I generally like what I see, but I might more prominently display the "Create a Post" section and/or create a way to display it even when the user has scrolled down to view past posts.

@@ -1,0 +1,51 @@
+1. Who is the main user of Facebook?
+
+The main user of facebook is some who wants to connect with family and friends.
+
+2. What are the top 3 critical goals for that user?
+
+1) Share their lives with their world through post updates, photos, videos, and links to blogs and articles.
+
+2) Connect with friends by reading their posts and links, and by viewing their photos and videos.
+
+3. What is the site's approximate information architecture? (in general -- don't get caught up in the details too much)
+
+See Hand-drawn sketch
+
+4. For your top user goal, what is likely to make the user's experience particularly satisfying?
+
+For them to be able to instantly share their thoughts and experiences with their world and have others immediately engage with what they've posted.
+
+5. To accomplish this goal, how does the user flow through the site's architecture? (ie. which pages are visited and what are clicked?)
+
+The user needs to log in (which has likely been remembered by the browser through the use of cookies). Next, all the user has to do is type in the "What's on your mind?" box and press post. It's a pretty shallow depth for the user to accomplish the goal.
+
+The user could also navigate to their profile page and post from there, but they save a click by posting onto their news feed.
+
+6. What style(s) of navigation is/are used? Do they answer the key questions (Where am I and how did I get here? Where should I go next and how do I get there?)?
+
+Well, there's a few different navigations. A horizontal nav bar near the top of the screen, as well as a vertical nav bar toward the left of the screen. When the user is on their "News Feed", the news feed nav link in the vertical nav is bold, but that's it.
+
+When the user is on their profile page, titles, arrows, and colored bars all help to indicate where the user currently is. These are subtle but effective markers to tell the user where they are.
+
+Regarding the question, "Where should I go next", on the home page, the main calls to action seem to be searching facebook in the search bar the top and posting. Again, on the profile page, posting is the main place users are encouraged to "go" next. 
+
+7. What does Facebook do well to allow the user to accomplish the top goal effectively, efficiently and with good satisfaction?
+
+Facebook does a good job of loading more content for users to consume when they scroll to the bottom of the screen. This leads to a nearly frictionless consumption experience. Many users describe how easy it is for them to get caught up in reading more and more.
+
+It's also easy for users to like, comment or share what friends have posted. 
+
+It's incredibly easy to post your own content to your profile.
+
+Lastly, whenever possible, it seems like Facebook pops open menus and modals rather than taking the user to a new page. This allows for a more integrated experience.
+
+8. What does Facebook do poorly when allowing the user to accomplish the top goal effectively, efficiently and with good satisfaction?
+
+In my opinion, Facebook's navigation seems pretty complicated. I think I would prefer combining the horizontal and vertical nav somehow. I know there's a lot more functionality to Facebook than just the news feed, but it seems like there's too much to do. 
+
+I'm testing Facebook out on a browser, but I imagine the interface is substantially simplified for a mobile user, which is likely the majority user in 2016.
+
+To me the toggle between profile page and news feed seems somewhat artificial as well. It may not be clear to a new user how to get from their profile page to the news feed and back.
+
+

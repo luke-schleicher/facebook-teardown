@@ -1,0 +1,35 @@
+Who is the most likely user of this page?
+
+The most likely user of this page is someone who is looking at a friend's information or someone who is updating their own information.
+
+What is that user's critical goal on that page?
+
+The users' critical goals here are viewing information and updating information.
+
+Does the visual hierarchy you sketched lead to that goal?
+
+Yes, section like "About", "Friends", "Photos" and "Videos" are clearly marked off. I think Facebook's got this page right.
+
+In the "About" section, nav links to the left mark what information the user is viewing about this person.
+
+Do the relationships between the elements lead you to that goal?
+
+Yes. Sections are gathered in large white boxes, with simple gray marks delineating separate tasks and functions. There's a healthy amount of white space also separating separate types of information.
+
+Nav bars are found either toward the top or left of a box, allowing the user to form expectations about how the navs and information will be arranged.
+
+What font families are most prominent on the page?
+
+San Francisco and the Mac System Fonts
+
+How do these font families contribute to or take away from the site's flow?
+
+See previous descriptions--overall they contribute to the display of the page.
+
+How do the line spacings, sizes and weights contribute to or take away from the site's flow?
+
+This page demonstrates more spacing between elements than other pages, which is refreshing.
+
+What would you improve to achieve a better hierarchy or flow?
+
+I wouldn't change much about this page.

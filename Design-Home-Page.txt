@@ -1,0 +1,41 @@
+Who is the most likely user of this page?
+
+The most likely user is someone who hasn't signed up for Facebook yet or someone who isn't logged in.
+
+What is that user's critical goal on that page?
+
+To sign up or log in quickly, painlessly.
+
+Does the visual hierarchy you sketched lead to that goal?
+
+I would says so, yes. For experienced users who just need to log in, the familiar nav bar is at the top for them to fill out. For new users, the reasons for joining facebook are listed to the left and the large form lies to the right, with a large "Sign Up" button.
+
+Do the relationships between the elements lead you to that goal?
+
+Yes, for instance, the log in features are all in close proximity to one another with the same font and size.
+
+The copy persuading the user to join Facebook is gathered to the left, with three similar icons to reinforce the meaning of the text. 
+The sign up form is separated to the right, with a large green sign up button that contrasts against the grays, whites and blues on the page.
+
+What font families are most prominent on the page?
+
+Freight Sans Bold and Freight Sans are used for headers, while San Francisco is used for body copy and forms.
+
+How do these font families contribute to or take away from the site's flow?
+
+The fonts are friendly, open sans serif fonts that communicate safety, friendliness and positivity. Using 3 fonts keeps the site visually interesting, with 2 of them coming from the same family, which makes a great pair.
+
+
+How do the line spacings, sizes and weights contribute to or take away from the site's flow?
+
+More important text is larger, so the largest text includes "Sign Up", "Connect with friends and the world around you on Facebook", the input fields, and the "Sign Up" button. The emphasis is clearly on acquiring new users, while current users are assumed to know their way around with the smaller sign in text near the top.
+
+The Terms of Use text, Data Policy, and Cookie Use links are much smaller, but still placed so that Facebook has done it's legal duty.
+
+What would you improve to achieve a better hierarchy or flow?
+
+I think Facebook generally has the right idea--focus on acquiring new users rather than catering to current users.
+
+I don't know that I would change anything, the form is toward the right side of the screen, which is where the user's eye will naturally gravitate. Maybe the only thing I would change is find some way to improve the presentation of the benefits of joining facebook. The icons are fairly nondescript and vague. However, it's possible this is fine, this draws more attention to the sign up form itself.
+
+Personally, I don't find this home screen layout to be particularly attractive--I don't love the header font and the page seems a little awkward if I really look at it, but I bet that the page is doing it's job well--getting visitors to sign up.

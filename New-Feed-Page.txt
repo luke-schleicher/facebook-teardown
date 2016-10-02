@@ -1,0 +1,35 @@
+Who is the most likely user of this page?
+
+Someone who wants to see what their friends are up to.
+
+What is that user's critical goal on that page?
+
+Look at what friends are thinking and doing, and liking and commenting on it.
+
+Does the visual hierarchy you sketched lead to that goal?
+
+Yes. The content occupies the central third of the screen, and is the only element that scrolls once you've scrolled down so far. This means it's the only section changing, so the user's focus is primarily on friends' posts.
+
+The fonts are a little small, and the vertical nav bar to the left encroaches on the content a bit for me, but otherwise they've done pretty well.
+
+Do the relationships between the elements lead you to that goal?
+
+Yes, a post's content and data is grouped in a white box, on a background of light gray. Likes, comments and shares fall at the bottom of each post. In my opinion, the likes, comments and share buttons could be emphasized more through color or size to increase the likelihood that they'll be clicked.
+
+What font families are most prominent on the page?
+
+It looks like "San Francisco" is doing most of the heavy lifting here.
+
+How do these font families contribute to or take away from the site's flow?
+
+I think this font is a great choice. It's a sans-serif so it's easy to ready, it's subtle, and it's more unique than a font like Helvetica or Arial.
+
+How do the line spacings, sizes and weights contribute to or take away from the site's flow?
+
+Facebook is trying to pack quite a bit into little spaces, so font sizes and measures are slightly more packed than I would like. This does mean Facebook is able to cram in a lot of content, so it may work to their advantage in helping users consume as much content as possible and minimizing fatigue from scrolling. But for me, and I'm sure for many people older than me, everything's a little too tight and there needs to be more room to breathe.
+
+What would you improve to achieve a better hierarchy or flow?
+
+I would condense the vertical navigation currently found to the left and move it to the horizontal nav currently found at the top.
+
+I would move the "Search Facebook" bar down to accomodate for more links, then I would allow the posts to occupy more of the real estate to the left. I would bump up font sizes one or two points, and slightly increase padding and margin in general.

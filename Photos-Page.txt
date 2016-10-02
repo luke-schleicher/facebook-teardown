@@ -1,0 +1,33 @@
+Who is the most likely user of this page?
+
+The most likely user of this page is someone who wants to view their friend's photos, or the user who wants to upload and album.
+
+What is that user's critical goal on that page?
+
+View photos and create albums.
+
+Does the visual hierarchy you sketched lead to that goal?
+
+Yes, the photos are prioritized over other content. The "Create Album" button could arguably be emphasized a bit more.
+
+Do the relationships between the elements lead you to that goal?
+
+Yes, photos are all grouped together with minimal gaps.
+
+The options of creating an album, adding photos and adding video are grouped together.
+
+What font families are most prominent on the page?
+
+Same as before.
+
+How do these font families contribute to or take away from the site's flow?
+
+Same as before.
+
+How do the line spacings, sizes and weights contribute to or take away from the site's flow?
+
+The minimal spacing between photos works well to keep the focus on the photos themselves.
+
+What would you improve to achieve a better hierarchy or flow?
+
+I think they've done a good job, but as I said before, I would emphasize the "Create Album" button more.
